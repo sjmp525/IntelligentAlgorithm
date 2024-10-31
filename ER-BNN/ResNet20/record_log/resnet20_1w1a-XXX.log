@@ -1,0 +1,276 @@
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	2.012	1.851	25.956	30.829
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='/home/kmyh/myCode/IM-BNN/IM-BNN/ResNet20/saveModel-008/best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='/home/kmyh/myCode/IM-BNN/IM-BNN/ResNet20/saveModel-008/best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	2.008	1.812	27.125	33.534
+1	1.731	1.629	35.980	39.694
+2	1.592	1.550	41.655	43.640
+3	1.513	1.496	44.958	45.843
+4	1.439	1.400	47.849	48.478
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=30, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	2.058	1.897	25.212	30.168
+1	1.790	1.666	34.014	37.810
+2	1.633	1.530	39.938	42.959
+3	1.525	1.551	44.018	44.081
+4	1.436	1.434	47.672	48.117
+5	1.338	1.344	51.677	51.352
+6	1.273	1.297	54.217	53.476
+7	1.217	1.248	56.284	55.799
+8	1.175	1.154	57.841	58.464
+9	1.136	1.130	59.291	60.086
+10	1.111	1.129	60.290	60.126
+11	1.070	1.126	62.023	60.907
+12	1.043	1.047	62.796	62.911
+13	1.016	1.055	63.868	63.391
+14	0.989	1.008	64.605	64.904
+15	0.971	1.094	65.294	63.351
+16	0.951	1.011	66.010	65.084
+17	0.932	0.953	66.917	67.308
+18	0.905	1.046	67.899	64.874
+19	0.896	0.982	68.279	66.667
+20	0.867	0.951	69.339	67.658
+21	0.859	0.919	69.557	68.239
+22	0.840	0.990	70.184	66.827
+23	0.832	0.865	70.545	69.671
+24	0.820	0.915	70.927	69.301
+25	0.810	0.986	71.280	67.258
+26	0.794	0.950	71.729	68.269
+27	0.776	0.934	72.506	68.049
+28	0.766	0.815	72.935	71.825
+29	0.763	0.795	73.041	72.716
+30	0.753	0.874	73.331	71.254
+31	0.744	0.864	73.790	71.264
+32	0.720	0.824	74.651	71.705
+33	0.714	0.849	74.920	71.565
+34	0.714	0.838	74.984	71.494
+35	0.689	0.779	75.695	73.387
+36	0.688	0.758	75.845	74.069
+37	0.684	0.842	75.954	72.346
+38	0.671	0.830	76.456	71.905
+39	0.666	0.772	76.508	74.048
+40	0.656	0.722	77.171	75.190
+41	0.653	0.770	77.089	73.958
+42	0.653	0.811	77.053	72.806
+43	0.646	0.670	77.482	76.703
+44	0.635	0.766	77.899	73.958
+45	0.634	0.877	77.853	71.234
+46	0.626	0.710	78.155	75.571
+47	0.629	0.864	78.033	70.172
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=30, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=30, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.915	1.683	29.623	37.430
+1	1.634	1.542	39.908	43.059
+2	1.520	1.435	44.413	47.766
+3	1.421	1.408	48.197	49.309
+4	1.348	1.266	51.370	53.916
+5	1.275	1.179	54.201	57.742
+6	1.208	1.165	56.751	58.273
+7	1.157	1.103	58.828	60.317
+8	1.106	1.127	60.455	60.437
+9	1.059	1.040	62.306	63.321
+10	1.020	1.010	63.838	64.233
+11	0.993	1.009	64.988	64.433
+12	0.958	1.036	66.000	64.343
+13	0.934	0.939	66.955	67.768
+14	0.911	0.914	67.782	67.939
+15	0.893	1.002	68.327	66.847
+16	0.865	0.873	69.545	69.942
+17	0.844	0.856	70.248	71.094
+18	0.824	0.872	71.084	70.873
+19	0.807	0.869	71.561	69.982
+20	0.785	0.929	72.518	67.989
+21	0.760	0.874	73.423	70.623
+22	0.750	0.762	73.800	73.427
+23	0.736	0.890	74.343	69.792
+24	0.729	0.732	74.661	74.690
+25	0.706	0.725	75.198	75.381
+26	0.697	0.836	75.633	71.845
+27	0.698	0.692	75.711	76.342
+28	0.688	0.754	75.891	74.930
+29	0.673	0.756	76.757	74.189
+30	0.672	0.762	76.599	73.968
+31	0.671	0.724	76.805	74.529
+32	0.660	0.767	77.043	74.269
+33	0.656	0.746	77.196	74.690
+34	0.650	0.719	77.123	75.601
+35	0.647	0.757	77.410	74.089
+36	0.643	0.782	77.744	72.877
+37	0.638	0.727	77.766	75.531
+38	0.638	0.662	77.889	77.304
+39	0.633	0.799	78.011	73.057
+40	0.628	0.681	78.161	76.703
+41	0.625	0.722	78.253	75.881
+42	0.617	0.647	78.411	77.244
+43	0.618	0.756	78.642	75.290
+44	0.618	0.779	78.446	73.107
+45	0.615	0.728	78.478	75.641
+46	0.610	0.777	78.876	72.766
+47	0.611	0.713	78.714	75.491
+48	0.608	0.687	78.926	76.542
+49	0.606	0.737	78.740	74.760
+50	0.602	0.766	79.111	73.758
+51	0.603	0.987	79.209	67.618
+52	0.599	0.654	79.189	77.464
+53	0.592	0.917	79.505	70.513
+54	0.594	0.683	79.451	76.512
+55	0.594	0.650	79.307	78.015
+56	0.593	0.605	79.495	79.607
+57	0.598	0.740	79.012	74.609
+58	0.592	0.775	79.351	74.559
+59	0.595	0.617	79.295	78.936
+60	0.590	0.679	79.417	75.942
+61	0.586	0.739	79.577	74.970
+62	0.582	0.753	79.758	74.609
+63	0.582	0.813	79.704	73.097
+64	0.584	0.659	79.565	77.224
+65	0.579	0.671	80.036	77.183
+66	0.580	0.644	79.866	78.145
+67	0.581	0.618	79.746	78.736
+68	0.577	0.756	80.092	74.619
+69	0.577	0.695	79.906	77.053
+70	0.575	0.851	80.066	72.065
+71	0.583	0.697	79.794	76.372
+72	0.575	0.782	80.106	75.100
+73	0.578	0.762	79.904	74.089
+74	0.574	0.670	80.044	76.823
+75	0.572	0.793	80.124	73.257
+76	0.575	0.725	79.932	74.790
+77	0.562	0.645	80.389	78.305
+78	0.568	0.678	80.383	76.993
+79	0.571	0.658	80.122	78.275
+80	0.569	0.789	80.166	74.499
+81	0.569	0.778	80.385	73.918
+82	0.567	0.630	80.325	78.466
+83	0.569	0.728	80.449	74.910
+84	0.559	0.690	80.551	76.983
+85	0.565	0.889	80.351	71.264
+86	0.565	0.699	80.441	76.482
+87	0.562	0.698	80.445	76.002
+88	0.561	0.905	80.471	71.915
+89	0.562	0.678	80.571	77.294
+90	0.563	0.677	80.078	76.843
+91	0.559	0.647	80.453	77.724
+92	0.555	0.619	80.683	78.836
+93	0.550	0.736	80.942	76.472
+94	0.554	0.627	80.787	78.476
+95	0.554	0.658	80.745	77.774
+96	0.562	0.799	80.445	74.579
+97	0.561	0.604	80.465	78.856
+98	0.553	0.697	80.803	76.893
+99	0.550	0.657	80.938	78.065
+100	0.553	0.672	80.797	76.623
+101	0.555	0.654	80.847	77.374
+102	0.547	0.653	80.777	77.484
+103	0.550	0.717	80.691	75.531
+104	0.556	0.818	80.473	72.987
+105	0.549	0.745	80.919	75.200
+106	0.548	0.691	80.861	77.244
+107	0.544	0.749	81.110	75.921
+108	0.550	0.970	80.829	71.074
+109	0.545	0.664	80.990	77.364
+110	0.545	0.684	81.220	76.422
+111	0.545	0.595	81.070	79.207
+112	0.547	0.591	81.014	79.798
+113	0.542	0.630	81.236	78.315
+114	0.544	0.598	81.018	79.698
+115	0.540	0.661	81.274	77.815
+116	0.539	0.740	81.240	76.252
+117	0.539	0.712	81.214	75.491
+118	0.543	0.645	81.092	78.035
+119	0.544	0.687	81.136	78.145
+120	0.539	0.655	81.106	77.374
+121	0.541	0.770	81.124	75.220
+122	0.543	0.723	81.234	76.532
+123	0.539	0.604	81.422	79.677
+124	0.538	0.592	81.366	79.818
+125	0.536	0.662	81.272	77.173
+126	0.536	0.734	81.190	76.282
+127	0.544	0.630	81.146	78.025
+128	0.536	0.660	81.328	77.855
+129	0.537	0.612	81.394	78.936
+130	0.536	0.778	81.492	74.720
+131	0.542	0.808	81.196	73.538
+132	0.541	0.584	81.194	79.908
+133	0.536	0.636	81.554	78.395
+134	0.535	0.684	81.569	76.272
+135	0.534	0.824	81.342	72.937
+136	0.530	0.675	81.528	77.594
+137	0.533	0.598	81.418	79.517
+138	0.529	0.655	81.552	77.855
+139	0.534	0.812	81.320	73.528
+140	0.533	0.680	81.595	77.093
+141	0.529	0.895	81.420	72.506
+142	0.531	0.621	81.368	78.596
+143	0.528	0.633	81.675	78.355
+144	0.535	0.679	81.490	76.973
+145	0.531	0.625	81.508	78.936
+146	0.531	0.609	81.569	78.526
+147	0.528	0.618	81.653	78.826
+148	0.524	0.621	81.869	78.506
+149	0.525	0.620	81.823	78.976
+150	0.518	0.618	81.907	78.696
+151	0.527	0.810	81.438	74.700
+152	0.520	0.686	81.969	76.893
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.911	1.755	29.878	35.737
+1	1.671	1.613	38.339	40.224
+2	1.547	1.437	43.498	47.346
+3	1.449	1.444	47.161	48.578
+4	1.346	1.316	51.378	51.983
+5	1.246	1.178	55.403	57.652
+6	1.176	1.122	57.869	59.165
+7	1.126	1.147	59.535	60.317
+8	1.079	1.037	61.338	62.911
+9	1.039	1.018	63.007	64.413
+10	1.007	1.046	64.217	63.091
+11	0.970	0.993	65.591	64.714
+12	0.949	0.941	66.623	67.188
+13	0.930	0.973	66.937	65.875
+14	0.903	0.946	68.151	67.368
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.15, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.05, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.2, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='D:\\BNN\\IM-BNN\\IM-BNN\\ResNet20\\saveModel-000\\best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='resnet20_1w1a', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0001, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=True, save_dir='saveModel-XXX', print_freq=100, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
