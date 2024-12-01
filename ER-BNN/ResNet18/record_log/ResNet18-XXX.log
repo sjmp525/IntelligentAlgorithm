@@ -1,0 +1,146 @@
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.924	1.605	31.651	41.627
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='/home/kmyh/myCode/IM-BNN/IM-BNN/ResNet18/saveModel-002/best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='/home/kmyh/myCode/IM-BNN/IM-BNN/ResNet18/saveModel-002/best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='/D//BNN/IM-BNN/IM-BNN/ResNet18/saveModel-002/best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='/D/BNN/IM-BNN/IM-BNN/ResNet18/saveModel-002/best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='/D:/BNN/IM-BNN/IM-BNN/ResNet18/saveModel-002/best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='\\D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\x08est-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='\\D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\\Best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\\Best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\\Best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\\Best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\\Best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\\Best-checkpoint.th', evaluate=True, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='D:\\BNN\\IM-BNN\\IM-BNN\\ResNet18\\saveModel-002\\Best-checkpoint.th', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	0.002	0.263	99.992	93.319
+1	0.003	0.260	99.978	93.289
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.949	1.626	31.294	39.794
+1	1.590	1.457	41.875	46.524
+2	1.451	1.346	47.390	50.571
+3	1.337	1.198	51.999	57.061
+4	1.261	1.100	55.096	61.188
+5	1.150	1.157	59.409	59.305
+6	1.080	1.011	61.899	64.533
+7	1.021	1.050	64.279	63.662
+8	0.946	0.865	66.807	69.802
+9	0.883	0.851	69.071	69.992
+10	0.832	0.866	70.871	71.054
+11	0.793	0.890	72.027	69.832
+12	0.738	0.751	73.844	74.780
+13	0.699	0.806	75.585	72.877
+14	0.649	0.736	77.151	74.860
+15	0.615	0.714	78.516	76.763
+16	0.590	0.674	79.337	78.125
+17	0.545	0.693	80.751	78.225
+18	0.527	0.676	81.460	78.405
+19	0.496	0.849	82.656	74.419
+20	0.480	0.604	83.047	80.549
+21	0.459	0.574	84.002	81.230
+22	0.434	0.672	84.718	79.147
+23	0.425	0.602	85.232	80.869
+24	0.417	0.585	85.405	81.180
+25	0.403	0.630	85.773	80.839
+26	0.389	0.566	86.396	82.582
+27	0.382	0.660	86.657	80.579
+28	0.369	0.640	87.027	81.480
+29	0.363	0.613	87.310	81.330
+30	0.358	0.616	87.420	81.781
+31	0.338	0.514	88.231	84.395
+32	0.329	0.641	88.383	81.240
+33	0.331	0.538	88.261	83.634
+34	0.317	0.485	88.988	85.757
+35	0.316	0.498	88.842	84.475
+36	0.309	0.722	89.107	80.158
+37	0.303	0.625	89.451	82.382
+38	0.301	0.553	89.551	83.804
+39	0.301	0.552	89.417	83.834
+40	0.293	0.532	89.625	83.924
+41	0.286	0.539	89.908	84.014
+42	0.278	0.581	90.174	83.063
+43	0.284	0.529	89.986	84.285
+44	0.272	0.499	90.411	85.196
+45	0.270	0.486	90.593	85.347
+46	0.271	0.481	90.555	85.557
+47	0.267	0.445	90.607	86.719
+48	0.271	0.570	90.495	82.612
+49	0.258	0.446	90.936	86.348
+50	0.262	0.487	90.735	85.176
+51	0.254	0.441	90.984	85.537
+52	0.253	0.541	91.218	83.604
+53	0.257	0.473	91.054	85.437
+54	0.253	0.437	91.112	86.028
+55	0.249	0.478	90.996	84.806
+56	0.250	0.588	91.154	81.941
+57	0.244	0.486	91.344	84.605
+58	0.247	0.463	91.286	85.337
+59	0.244	0.407	91.394	86.538
+60	0.239	0.438	91.454	85.857
+61	0.239	0.459	91.703	85.807
+62	0.242	0.419	91.440	86.538
+63	0.239	0.486	91.565	84.355
+64	0.239	0.429	91.717	86.338
+65	0.244	0.397	91.274	86.879
+66	0.233	0.433	91.835	85.797
+67	0.230	0.425	91.923	86.378
+68	0.228	0.526	91.889	84.445
+69	0.226	0.456	91.871	85.707
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.955	1.622	31.002	41.036
+1	1.579	1.474	42.135	46.615
+2	1.410	1.313	48.720	52.133
+3	1.291	1.219	53.860	56.480
+4	1.197	1.117	57.456	59.836
+5	1.121	1.204	60.375	57.442
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=256, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=200, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.825	1.553	34.363	42.468
+1	1.535	1.373	44.533	49.870
+2	1.394	1.485	50.084	50.871
+3	1.288	1.146	54.992	58.914
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=30, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.817	1.502	34.998	44.862
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=130, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.833	1.526	34.040	43.359
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=30, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.848	1.552	33.558	42.238
+1	1.562	1.356	43.035	49.950
+2	1.409	1.252	49.730	53.446
+3	1.292	1.157	54.379	58.684
+4	1.176	1.228	58.568	58.123
+5	1.058	1.098	62.746	62.270
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=30, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=150, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+Namespace(arch='ResNet18', workers=4, epochs=1000, warm_up_epochs=16, start_epoch=0, batch_size=128, lr=0.1, momentum=0.9, weight_decay=0.0002, num_classes=10, seed=0, dynamic_range=[0.8, 0.0], resume='none', evaluate=False, save_dir='saveModel-XXX', print_freq=150, save_every=200)
+Epoch	train_loss	val_loss	train_acc	val_acc	
+0	1.813	1.494	35.296	44.551
